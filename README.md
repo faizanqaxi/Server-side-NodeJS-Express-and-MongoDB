@@ -4,5 +4,5 @@
 * Made a RESTful API with security and authentication
 * Used MongoDB database, Routing, OAuth, Cookies, Sessions and More
 
-The server uses OAuth witn facebook for Authentication so you need to register your app at "developers.facebook.com"
+The server uses OAuth with facebook for Authentication so you need to register your app at "developers.facebook.com"
 After that update config.js file accordingly
